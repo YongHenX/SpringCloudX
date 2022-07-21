@@ -10,5 +10,8 @@ public class Test1 {
     public void test1()
     {
         int a = 10;
+        System.out.println("hHHHhhhh");
+        System.out.println("hHHHhhhh");
+        System.out.println("hHHHhhhh");
     }
 }
