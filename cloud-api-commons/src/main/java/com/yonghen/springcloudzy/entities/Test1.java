@@ -16,5 +16,7 @@ public class Test1 {
         System.out.println("kkkkkkkkkkkkkkkkk");
         System.out.println("WWWWWWWWWWWWWWWW");
         System.out.println("WWWWWWWWWWWWWWWW1");
+        System.out.println("版本66666666666666");
+        System.out.println("版本666");
     }
 }
